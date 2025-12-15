@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Phat
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Backend+Developer" alt="Typing SVG" /></a>
 
 🎯 Backend / Full-stack Developer  
 💻 TypeScript | Node.js | Express | MongoDB | React  
@@ -28,7 +28,7 @@
 
 ### 🗄️ Database & Cloud
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,firebase" />
 </p>
 
 ### 🧰 Tools & Runtime
@@ -37,28 +37,15 @@
 </p>
 
 
----
+## 📫 Contact
 
-## 📌 Featured Projects
-
-### 🏡 Project Homestay To Online
-Online homestay booking platform with payment integration
-
-- Backend: TypeScript, Express, MongoDB
-- Features: Booking, Reviews, Stripe Payment
-- Role: Full-stack Development
-
-👉 [View Repository](https://github.com/USERNAME/REPO)
-
----
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true" />
+<p>
+  <img src="https://skillicons.dev/icons?i=gmail" width="20" />
+  <a href="mailto:patnattapong1@email.com">patnattapong1@email.com</a>
 </p>
 
----
+<!-- <p>
+  <img src="https://skillicons.dev/icons?i=linkedin" width="20" />
+  <a href="https://linkedin.com/in/yourname">linkedin.com/in/yourname</a>
+</p> -->
 
-## 📫 Contact
-- 📧 Email: patnattapong1@email.com  
-- 💼 LinkedIn: https://linkedin.com/in/yourname
