@@ -1,45 +1,64 @@
 # 👋 Hi, I'm Phat
 
 🎯 Backend / Full-stack Developer  
-💻 Node.js | TypeScript | Express | MongoDB | React  
+💻 TypeScript | Node.js | Express | MongoDB | React  
 📍 Thailand
 
 ---
 
 ## 🧑‍💻 About Me
-- สนใจ Backend Development และ System Design
-- เคยทำโปรเจกต์ Full-stack (Booking / Payment / API)
-- ชอบเขียน API ด้วย TypeScript + Express
-- กำลังมองหาโอกาส Internship / Junior Backend
+- Passionate in Backend Development & System Design
+- Experience in Full-stack projects (Booking / Payment / REST API)
+- Enjoy building scalable APIs with TypeScript & Express
+- Currently seeking Internship / Junior Backend opportunities
 
 ---
 
-### 🧠 Backend
-<img src="https://skillicons.dev/icons?i=nodejs,ts,express,mongodb,postgres" />
+## 🛠 Tech Stack
 
-### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=react,tailwind,html,css" />
+### 📝 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,go,html,css" />
+</p>
 
-### 🧰 Tools
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman" />
+### ⚙️ Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=express,react,tailwind,prisma" />
+</p>
+
+### 🗄️ Database & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase" />
+</p>
+
+### 🧰 Tools & Runtime
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,docker,git,github,postman,vscode,figma" />
+</p>
 
 
 ---
 
 ## 📌 Featured Projects
+
 ### 🏡 Project Homestay To Online
-ระบบจองที่พัก + ชำระเงิน
+Online homestay booking platform with payment integration
+
 - Backend: TypeScript, Express, MongoDB
-- Feature: Booking, Review, Payment (Stripe)
+- Features: Booking, Reviews, Stripe Payment
+- Role: Full-stack Development
+
 👉 [View Repository](https://github.com/USERNAME/REPO)
 
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=true" />
+</p>
 
 ---
 
 ## 📫 Contact
-- Email: your@email.com
-- LinkedIn: https://linkedin.com/in/yourname
+- 📧 Email: patnattapong1@email.com  
+- 💼 LinkedIn: https://linkedin.com/in/yourname
