@@ -1,16 +1,8 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Backend+Developer" alt="Typing SVG" /></a>
+<a  href="https://git.io/typing-svg" ><img  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%91%8B+Hi%2C+I'm+Backend+Developer" alt="Typing SVG" /></a>
 
-🎯 Backend / Full-stack Developer  
-💻 TypeScript | Node.js | Express | MongoDB | React  
-📍 Thailand
-
----
-
-## 🧑‍💻 About Me
-- Passionate in Backend Development & System Design
-- Experience in Full-stack projects (Booking / Payment / REST API)
-- Enjoy building scalable APIs with TypeScript & Express
-- Currently seeking Internship / Junior Backend opportunities
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjByaWk1ZnJ6aGhwYjU4Y2Zxc3VldjNiN2VoMnhicW5icGt2dWpscSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/66M6ZwJkTLYikvhrqZ/giphy.gif" width="200" />
+</p>
 
 ---
 
@@ -43,9 +35,4 @@
   <img src="https://skillicons.dev/icons?i=gmail" width="20" />
   <a href="mailto:patnattapong1@email.com">patnattapong1@email.com</a>
 </p>
-
-<!-- <p>
-  <img src="https://skillicons.dev/icons?i=linkedin" width="20" />
-  <a href="https://linkedin.com/in/yourname">linkedin.com/in/yourname</a>
-</p> -->
 
