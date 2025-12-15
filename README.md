@@ -14,21 +14,15 @@
 
 ---
 
-## 🛠 Tech Stack
-**Backend**
-- Node.js, Express.js
-- TypeScript
-- MongoDB, PostgreSQL
-- JWT, REST API
+### 🧠 Backend
+<img src="https://skillicons.dev/icons?i=nodejs,ts,express,mongodb,postgres" />
 
-**Frontend**
-- React
-- Tailwind CSS
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=react,tailwind,html,css" />
 
-**Tools**
-- Git, GitHub
-- Docker (พื้นฐาน)
-- Stripe / PromptPay
+### 🧰 Tools
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman" />
+
 
 ---
 
